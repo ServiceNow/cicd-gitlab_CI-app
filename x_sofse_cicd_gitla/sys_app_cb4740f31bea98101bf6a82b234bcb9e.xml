@@ -25,14 +25,14 @@
         <sys_created_by>chiarng.lin@snc</sys_created_by>
         <sys_created_on>2020-08-17 05:55:41</sys_created_on>
         <sys_id>cb4740f31bea98101bf6a82b234bcb9e</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-09-14 13:21:21</sys_updated_on>
+        <sys_updated_on>2020-09-16 15:08:10</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.3</version>
+        <version>1.0.27</version>
     </sys_app>
 </record_update>
